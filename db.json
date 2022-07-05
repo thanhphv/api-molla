@@ -3,137 +3,108 @@
     {
       "id": 1,
       "name": "Carronade Table Lamp",
-      "img01": "../images/products/decoration/carronade.jpg",
-	  "img02": "../images/products/decoration/carronade-02.jpg",
+      "img01": "../images/products/decoration/carronade.jpg","img02": "../images/products/decoration/carronade-02.jpg",
       "price": 120,
       "category": "Decoration",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "
     },
     {
       "id": 2,
       "name": "Cushion Set 3 Pieces",
-      "img01": "../images/products/decoration/cushion.jpg",
-	  "img02": "../images/products/decoration/cushion-02.jpg",
+      "img01": "../images/products/decoration/cushion.jpg","img02": "../images/products/decoration/cushion-02.jpg",
       "price": 199,
       "category": "Decoration",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 3,
       "name": "Foldable Tray Table",
-      "img01": "../images/products/decoration/foldabletray.jpg",
-	  "img02": "../images/products/decoration/foldabletray-02.jpg",
+      "img01": "../images/products/decoration/foldabletray.jpg","img02": "../images/products/decoration/foldabletray-02.jpg",
       "price": 250,
       "category": "Decoration",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 4,
       "name": "Garden Armchair",
-      "img01": "../images/products/decoration/gardenarmchair.jpg",
-	  "img02": "../images/products/decoration/gardenarmchair-02.jpg",
+      "img01": "../images/products/decoration/gardenarmchair.jpg","img02": "../images/products/decoration/gardenarmchair-02.jpg",
       "price": 90,
       "category": "Decoration",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 5,
       "name": " 2-Seater",
-      "img01": "../images/products/funiture/2-seater.jpg",
-	  "img02": "../images/products/funiture/2-seater-02.jpg",
+      "img01": "../images/products/funiture/2-seater.jpg","img02": "../images/products/funiture/2-seater-02.jpg",
       "price": 248,
       "category": "Furniture",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 6,
       "name": "Block Side Table",
-      "img01": "../images/products/funiture/blockside.jpg",
-	  "img02": "../images/products/funiture/blockside-02.jpg",
+      "img01": "../images/products/funiture/blockside.jpg","img02": "../images/products/funiture/blockside-02.jpg",
       "price": 210,
       "category": "Furniture",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 7,
       "name": "Butler Stool Ladder",
-      "img01": "../images/products/funiture/butlerstool.jpg",
-	  "img02": "../images/products/funiture/butlerstool-02.jpg",
+      "img01": "../images/products/funiture/butlerstool.jpg","img02": "../images/products/funiture/butlerstool-02.jpg",
       "price": 20,
       "category": "Furniture",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 8,
       "name": "Can 2-Seater Sofa",
-      "img01": "../images/products/funiture/can2-seater.jpg",
-	  "img02": "../images/products/funiture/can2-seater-02.jpg",
+      "img01": "../images/products/funiture/can2-seater.jpg","img02": "../images/products/funiture/can2-seater-02.jpg",
       "price": 60,
       "category": "Furniture",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 9,
       "name": "Roots Sofa Bed",
-      "img01": "../images/products/funiture/rootssoda.jpg",
-	  "img02": "../images/products/funiture/rootssoda-02.jpg",
+      "img01": "../images/products/funiture/rootssoda.jpg","img02": "../images/products/funiture/rootssoda-02.jpg",
       "price": 449,
       "category": "Furniture",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 10,
       "name": "Flow Slim Armchair",
-      "img01": "../images/products/funiture/flowslim.jpg",
-	  "img02": "../images/products/funiture/flowslim-02.jpg",
+      "img01": "../images/products/funiture/flowslim.jpg","img02": "../images/products/funiture/flowslim-02.jpg",
       "price": 97,
       "category": "Furniture",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 11,
       "name": "Flodable Tray Table",
-      "img01": "../images/products/funiture/foldabletray.jpg",
-	  "img02": "../images/products/funiture/foldabletray-02.jpg",
+      "img01": "../images/products/funiture/foldabletray.jpg","img02": "../images/products/funiture/foldabletray-02.jpg",
       "price": 250,
       "category": "Furniture",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 12,
       "name": "Garden Armchair",
-      "img01": "../images/products/funiture/gardenarmchair.jpg",
-	  "img02": "../images/products/funiture/gardenarmchair-02.jpg",
+      "img01": "../images/products/funiture/gardenarmchair.jpg","img02": "../images/products/funiture/gardenarmchair-02.jpg",
       "price": 90,
       "category": "Furniture",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 13,
       "name": "Carronade Table Lamp",
-      "img01": "../images/products/lighting/carronadelarge.jpg",
-	  "img02": "../images/products/lighting/carronadelarge-02.jpg",
+      "img01": "../images/products/lighting/carronadelarge.jpg","img02": "../images/products/lighting/carronadelarge-02.jpg",
       "price": 110,
       "category": "Lighting",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 14,
       "name": "Carronade Large Suspension",
-      "img01": "../images/products/lighting/carronadetable.jpg",
-	  "img02": "../images/products/lighting/carronadetable-02.jpg",
+      "img01": "../images/products/lighting/carronadetable.jpg","img02": "../images/products/lighting/carronadetable-02.jpg",
       "price": 41,
       "category": "Lighting",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    },
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "},
     {
       "id": 15,
       "name": "Petite Table Lamp",
-      "img01": "../images/products/lighting/petitetable.jpg",
-	  "img02": "../images/products/lighting/petitetable-02.jpg",
+      "img01": "../images/products/lighting/petitetable.jpg","img02": "../images/products/lighting/petitetable-02.jpg",
       "price": 65,
       "category": "Lighting",
-      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
-    }
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "}
   ]
 }
